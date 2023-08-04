@@ -10,7 +10,7 @@ let index = -1;
 let fnc = ' ';
 
 if(data.length == 0){
-alert("EMPTY STRING");
+alert(null);
 }
 
 for (let i of data) {
