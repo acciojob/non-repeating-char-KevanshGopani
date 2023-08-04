@@ -22,9 +22,7 @@ for (let i of data) {
 	}
 }
 if (index === data.length-1) {
-console.log("yooo")
-
-	alert("All The Charecter Are reapeating")
+	alert(null)
 } else {
 	alert(fnc);
 }  
